@@ -1,54 +1,35 @@
-# Student Bio
+# Introduction
 
-Write a short bio for yourself using Markdown and add it to your class
-repository using Local/Remote workflows. Just a little intro so your classmates
-can get to know you.
+Ebenezer Osei Biney is my name. I am from Ghana in west africa and i live in
+Belgium with my family. _I am very excited to be part of **HACK YOUR FUTUER**
+organiztion and to meet new people and new culture in this society. I have been
+searching for an organization like for a long time, so i can be able to join a
+community of developers.I would love to teach and learn more from other to
+explore more skills. I know I am self-motivated and I am always look forward to
+experience. I am ready to acquire the knowledge. I am very passionate about
+**IT** really want do more._
 
-## Checklist
+## Things i like to do in my free time
 
-Copy-paste this checklist into a new deliverables issue and move your issue to
-the project board, your issue should have:
+- Listering to music
+- Watching good movies,series and football
+- Playing america football
+- Playing football
 
-- labels:`individual`, `deliverable`, `week-1`
-- milestone: Workflows
+### My Achievemants
 
-```markdown
-- [ ] I wrote my markdown locally on a new branch
-- [ ] My bio file is named _exactly_ the same as my GitHub username
-- [ ] My `bio` link in the class README opens to my student bio file
-- [ ] I pulled and merged `main` into my branch before pushing
-- [ ] I pushed my branch to the class repository and opened a PR
-- [ ] I went through the PR checklist
-- [ ] All the CI check pass
-- [ ] I assigned a coach to review my PR
-- [ ] I
-      [linked my PR to this issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
-```
+- 👨‍🎓I'm looking forward in collaborate in group project.
+- 💻 I want learn more about git and github commands
+- 🐱‍👤 I want to become a ninja in the developer world
 
-## Steps
+### About me
 
-- create new `Deliverable` issue on your `home` class repo with the title
-  `YourName : workflows : student-bio`.
-- assign it to your self.
-- add labels `individual`, `deliverable`, `week-1`.
-- copy the checklist above and paste it in your issue.
-- add it to the project board `Deliverable`.
-- add milestone.
-- clone your class `home` repo.
-- run `npm install` to install the dependency.
-- create a new branch `YourNameBio` and checkout to your branch.
-- in `student-bios` folder create a new md file, IMPORTANT: the name of the file
-  should be exactly as your gitHub userName.
-- you can add your photo(s) to `img` folder.
-- add info about your self to the md file you created after you are done.
-- make sure you pass all code quality checks
-- `npm run format`
-- `npm run format:check`
-- `npm run spell-check`
-- `npm run lint:ls`
-- `npm run lint:md`
-- if all good, then
-- add your changes to the staging area.
-- commit your changed and push to gitHub.
-- make `PR` add a coach as a reviewer.
-- add label `student-bio`.
+1. I am an easy giong person
+2. I belive in **HONOUR,RESPECT and being TRUSTWORTHY**.
+
+   How you can reach me
+   :[linkedin](https://www.linkedin.com/in/osei-biney-3a7034266?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWEICIui1StW7btYhPyv3NA%3D%3D)
+
+   [Github](https://github.com/Osei-b4)
+
+   ![eben picture](./IMG_0785.PNG)
